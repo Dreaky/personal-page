@@ -1,49 +1,25 @@
 ---
-title: Terms of Service
+title: Terms of Use
 ---
 
-**Last updated on June 1, 2023**
+**Last updated on January 1, 2025**
 
-These Terms of Service ("Terms") govern your access to and use of [Website Name] ("the Website") and any related services provided by [Website Owner/Company] ("we," "us," or "our"). Please read these Terms carefully before using the Website.
+Welcome to my website! By accessing or using this site, you agree to the following terms:
 
-**1. Acceptance of Terms**
+**1. Content Ownership**
 
-By accessing or using the Website, you agree to be bound by these Terms and our Privacy Policy. If you do not agree to these Terms or the Privacy Policy, please do not use the Website.
+All content on this site, including text, images, and logos, is my property unless otherwise stated. Please do not reproduce or distribute it without my permission.
 
-**2. Changes to Terms**
+**2. Fair Use**
 
-We reserve the right to modify, amend, or update these Terms at any time. Such changes will be effective upon posting on the Website. It is your responsibility to review these Terms regularly. Your continued use of the Website after any changes indicates your acceptance of the revised Terms.
+Feel free to share my work for personal use or inspiration, but kindly provide credit and a link back to my site.
 
-**3. Use of the Website**
+**3. External Links**
 
-You agree to use the Website for lawful purposes and in a manner consistent with these Terms. You are responsible for any content you post or submit on the Website.
+This site may include links to external websites. I am not responsible for the content or accuracy of these third-party resources.
 
-**4. Registration and Account**
+**4. Disclaimer**
 
-Certain areas of the Website may require registration or the creation of an account. You agree to provide accurate, current, and complete information during the registration process and to update such information to keep it accurate, current, and complete. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
+All content is provided "as is" without warranties. I am not liable for any issues arising from your use of the site.
 
-**5. Content and Intellectual Property**
-
-The content on the Website, including text, graphics, logos, images, audio, video, software, and other materials, is owned or licensed by us and is protected by copyright and other intellectual property laws. You may not use, reproduce, or distribute the content without our prior written consent.
-
-**6. Third-Party Links**
-
-The Website may contain links to third-party websites or resources. We do not endorse and are not responsible for the content, products, or services provided by third parties. Your use of such websites is at your own risk.
-
-**7. Termination**
-
-We may, at our sole discretion, terminate or suspend your access to the Website at any time and for any reason, without notice.
-
-**8. Disclaimer**
-
-The Website and its content are provided on an "as is" and "as available" basis. We make no warranties or representations about the accuracy or completeness of the content. We do not guarantee that the Website will be error-free or uninterrupted.
-
-**9. Limitation of Liability**
-
-To the fullest extent permitted by law, we shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to damages for loss of profits, goodwill, use, data, or other intangible losses, arising out of or in connection with the use or inability to use the Website.
-
-**10. Governing Law**
-
-These Terms are governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of laws principles. Any disputes arising under these Terms shall be subject to the exclusive jurisdiction of the courts of [Your Jurisdiction].
-
-_Thank you for reading our Terms of Service. By using the Website, you agree to be bound by these Terms._
+_Thank you for reading our Terms of Service. If you have any questions, feel free to reach out through my Contact page._

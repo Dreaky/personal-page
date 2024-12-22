@@ -41,10 +41,10 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     logo: {
         src: '/logo.svg',
-        alt: 'Ovidius logo'
+        alt: 'DS logo'
     },
-    title: 'Ovidius',
-    description: 'Astro.js and Tailwind CSS theme for blogging by justgoodui.com',
+    title: 'David Slezak',
+    description: 'Personal website and blog by David Slezak',
     image: {
         src: '/ovidius-preview.jpg',
         alt: 'Ovidius - Astro.js and Tailwind CSS theme'
@@ -55,21 +55,29 @@ const siteConfig: SiteConfig = {
             href: '/'
         },
         {
+            text: 'About',
+            href: '/about'
+        },
+        {
             text: 'Blog',
             href: '/blog'
         },
         {
-            text: 'About',
-            href: '/about'
+            text: 'Gallery', 
+            href: '/gallery'
+        },        
+        {
+            text: 'Playground', 
+            href: '/playground'
         },
         {
             text: 'Contact',
             href: '/contact'
         },
-        {
-            text: 'Download Theme',
-            href: 'https://github.com/JustGoodUI/ovidius-astro-theme'
-        }
+        // {
+        //     text: 'Download Theme',
+        //     href: 'https://github.com/JustGoodUI/ovidius-astro-theme'
+        // }
     ],
     secondaryNavLinks: [
         {
@@ -84,44 +92,44 @@ const siteConfig: SiteConfig = {
             text: 'Contact',
             href: '/contact'
         },
-        {
-            text: 'Download Theme',
-            href: 'https://github.com/JustGoodUI/ovidius-astro-theme'
-        }
+        // {
+        //     text: 'Download Theme',
+        //     href: 'https://github.com/JustGoodUI/ovidius-astro-theme'
+        // }
     ],
     socialLinks: [
+        // {
+        //     text: 'Go to GitHub repo',
+        //     href: 'https://github.com/JustGoodUI/ovidius-astro-theme',
+        //     icon: 'github'
+        // },
         {
-            text: 'Go to GitHub repo',
-            href: 'https://github.com/JustGoodUI/ovidius-astro-theme',
-            icon: 'github'
+            text: 'Follow on LinkedIn',
+            href: 'https://www.linkedin.com/in/david-slezak-sk/',
+            icon: 'linkedin'
         },
-        {
-            text: 'Follow on Instagram',
-            href: 'https://instagram.com/',
-            icon: 'instagram'
-        },
-        {
-            text: 'Follow on X',
-            href: 'https://twitter.com/justgoodui',
-            icon: 'x-twitter'
-        }
+        // {
+        //     text: 'Follow on X',
+        //     href: 'https://twitter.com/justgoodui',
+        //     icon: 'x-twitter'
+        // }
     ],
     hero: {
-        title: 'Hi there!',
-        text: "My name is Justin Case. I'm a freelance front-end developer, author and speaker based in Austin, TX. It's nice to meet you.",
+        title: 'Exploring Quality and Creativity',
+        text: "Hi, I'm David Slezak - a QA Engineer with a passion for automation, especially Playwright. \n Welcome to my personal space where testing meets creativity!",
         avatar: {
             src: '/avatar.jpg',
-            alt: 'Justin Case'
+            alt: 'David Slezak'
         },
         backgroundImage: {
             src: '/hero.webp'
         }
     },
-    subscribe: {
-        title: 'Subscribe to Ovidius Newsletter',
-        text: 'One update per week. All the latest news directly in your inbox.',
-        formUrl: 'https://justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117&amp;f_id=005c48e2f0'
-    },
+    // subscribe: {
+    //     title: 'Subscribe to Ovidius Newsletter',
+    //     text: 'One update per week. All the latest news directly in your inbox.',
+    //     formUrl: 'https://justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117&amp;f_id=005c48e2f0'
+    // },
     postsPerPage: 5
 };
 
