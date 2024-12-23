@@ -3,7 +3,7 @@ import { type CollectionEntry } from 'astro:content';
 import FormattedDate from './FormattedDate.astro';
 
 const { post } = Astro.props as { post: CollectionEntry<'blog'> };
-const { title, publishDate, updatedDate, featureImage, excerpt } = post.data;
+const { title, publishDate, updatedDate, featureImage, excerpt, tags } = post.data;
 ---
 
 <article class="mb-12 sm:mb-16">
@@ -38,6 +38,23 @@ const { title, publishDate, updatedDate, featureImage, excerpt } = post.data;
         excerpt && (
             <div class="max-w-3xl mx-auto mt-6">
                 <div class="prose prose-slate sm:prose-lg max-w-none">{excerpt}</div>
+                {
+                    tags && (
+                        <div class="post-card-content mt-8">
+                            <div class="prose prose-slate sm:prose-lg max-w-none space-x-2">
+                            {tags.map(tag => (
+                                <a 
+                                href={`https://www.google.com/search?q=${encodeURIComponent(tag)}`} 
+                                target="_blank" 
+                                rel="noopener noreferrer"
+                                >
+                                #{tag}
+                                </a>
+                            ))}
+                            </div>
+                        </div>
+                    )
+                }
             </div>
         )
     }

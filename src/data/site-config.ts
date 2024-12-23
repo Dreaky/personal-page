@@ -47,7 +47,7 @@ const siteConfig: SiteConfig = {
     description: 'Personal website and blog by David Slezak',
     image: {
         src: '/ovidius-preview.jpg',
-        alt: 'Ovidius - Astro.js and Tailwind CSS theme'
+        alt: 'David Slezak - Personal website and blog created with Ovidius - Astro.js and Tailwind CSS theme'
     },
     primaryNavLinks: [
         {
@@ -62,18 +62,18 @@ const siteConfig: SiteConfig = {
             text: 'Blog',
             href: '/blog'
         },
-        {
-            text: 'Gallery', 
-            href: '/gallery'
-        },        
-        {
-            text: 'Playground', 
-            href: '/playground'
-        },
-        {
-            text: 'Contact',
-            href: '/contact'
-        },
+        // {
+        //     text: 'Gallery', 
+        //     href: '/gallery'
+        // },        
+        // {
+        //     text: 'Playground', 
+        //     href: '/playground'
+        // },
+        // {
+        //     text: 'Contact',
+        //     href: '/contact'
+        // },
         // {
         //     text: 'Download Theme',
         //     href: 'https://github.com/JustGoodUI/ovidius-astro-theme'
