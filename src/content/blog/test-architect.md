@@ -9,7 +9,7 @@ featureImage:
   caption: Testing can be as complex as navigating a spiral staircase
 seo:
   image:
-    src: '/blogs/test-architect.jpg'
+    src: '/blogs/test-architect.png'
 ---
 
 Imagine this: your development team is shipping new features rapidly, but your QA team is barely keeping up. Manual testing is slow, bugs are being missed, and the release cycle is dragging. Sound familiar? This is the challenge many companies face in 2024. While everyone is racing to release faster, **quality** can’t take a backseat.
