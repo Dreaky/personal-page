@@ -3,7 +3,7 @@ title: 'QA: Struggling or Evolving?'
 excerpt: "As QA becomes more complex, the challenge isn't just keeping up it's evolving to meet new demands. Today, testing goes beyond bug-finding, with QA teams now managing microservices, using AI tools, and constantly refining automation, all while navigating talent shortages and the pressure of Agile timelines. In my latest blog, I explore how testing must shift from being a simple 'quality stamp' to a proactive business enabler, how AI is transforming testing into a source of predictive insights, and strategies for making QA a key driver of both quality and business success."
 tags: ['QA', 'QualityAssurance', 'Testing', 'Automation', 'Agile', 'AITesting', 'BusinessValue']
 publishDate: 'Nov 8 2024'
-isFeatured: true
+isFeatured: false
 featureImage:
   src: '/blogs/qa-struggling.webp'
   alt: Graph about chaos on one side and new practices on other

@@ -92,10 +92,6 @@ const siteConfig: SiteConfig = {
             text: 'Contact',
             href: '/contact'
         },
-        // {
-        //     text: 'Download Theme',
-        //     href: 'https://github.com/JustGoodUI/ovidius-astro-theme'
-        // }
     ],
     socialLinks: [
         // {
@@ -105,7 +101,7 @@ const siteConfig: SiteConfig = {
         // },
         {
             text: 'Follow on LinkedIn',
-            href: 'https://www.linkedin.com/in/david-slezak-sk/',
+            href: 'https://www.linkedin.com/in/david-slezak-sk',
             icon: 'linkedin'
         },
         // {
